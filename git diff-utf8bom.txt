@@ -1,0 +1,9 @@
+比较2版本的差异 列出来那个文件不同
+git diff aaa main --stat
+
+列出具体不同的文件差异
+git diff aaa main --readme.txt
+
+列出所有差异
+git diff aaa main
+
