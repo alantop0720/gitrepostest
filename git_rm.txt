@@ -1,0 +1,6 @@
+git rm 文件名
+删除文件和版本库里面的文件
+
+git add .
+git commit -m "delete"
+git push
